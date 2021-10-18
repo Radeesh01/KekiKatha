@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/popup"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/off_white"
+    android:focusable="false"
+    android:padding="7dp">
+
+    <!--
+         <SeekBar
+        android:id="@+id/seekBar1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:max="10"
+        android:progressDrawable="@drawable/red_scrubber_progress"
+        android:thumb="@drawable/red_scrubber_control" />
+    -->
+
+    <SeekBar
+        android:id="@+id/seekBar1"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_centerHorizontal="true"
+
+        />
+
+</RelativeLayout>

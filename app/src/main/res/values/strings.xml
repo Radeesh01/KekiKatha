@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keti Katha</string>
+    <string name="textsize_dialog_lbl_fontsize">Font Size</string>
+    <string name="textsize_dialog_edtText">18</string>
+    <string name="settingResetMsg">Are you sure? All Changes made by you will be removed..</string>
+    <string name="settingResetTitleMsg">Confirm Reset operations</string>
+    <integer name="colorGridColumnWidth">110</integer>
+    <string name="menu_language">Language</string>
+    <string name="menu_fontcolor">Font color</string>
+    <string name="menu_britness">Brightness</string>
+    <string name="menu_indicator">Indicator</string>
+    <string name="menu_reset">Reset</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="share">Share</string>
+    <string name="unbook">Unbook</string>
+    <string name="bookmarked">Bookmarked</string>
+    <string name="bookmark_list">Bookmark List</string>
+    <string name="rateus">Rate Us</string>
+
+    <string name="admob_bannner_id">ca-app-pub-7549373802878527/3289404360</string>
+    <string name="interstitial_full_screen">ca-app-pub-7549373802878527/9746113455</string>
+
+
+</resources>

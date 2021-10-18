@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Lalantha\\Android\\The Book\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\Lalantha\\Android\\The Book\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7,10,9,8,4,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "186,356,295,234,94,139",
+                        "endColumns": "46,63,59,59,43,43",
+                        "endOffsets": "228,415,350,289,133,178"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,102,166,226,286,330",
+                        "endColumns": "46,63,59,59,43,43",
+                        "endOffsets": "97,161,221,281,325,369"
+                    }
+                }
+            ]
+        }
+    ]
+}

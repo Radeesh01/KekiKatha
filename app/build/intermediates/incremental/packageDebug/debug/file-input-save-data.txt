@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Fri Oct 08 19:07:52 IST 2021
+1.base=E\:\\Lalantha\\Android\\The Book\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.path=bookmark.db
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=E\:\\Lalantha\\Android\\The Book\\app\\build\\intermediates\\assets\\debug
+3.set=ASSET
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=lorem_lpsum.db
+count=4
+1.set=DEX
+0.path=note.db
+3.base=E\:\\Lalantha\\Android\\The Book\\app\\build\\intermediates\\assets\\debug
+0.set=ASSET
+0.base=E\:\\Lalantha\\Android\\The Book\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=classes.dex

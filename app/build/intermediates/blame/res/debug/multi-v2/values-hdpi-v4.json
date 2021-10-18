@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Lalantha\\Android\\The Book\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\5c9ffece9146d2ae6500ee3a1c9b06f0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endLines": "11",
+                        "endColumns": "13",
+                        "endOffsets": "582"
+                    }
+                },
+                {
+                    "source": "E:\\Lalantha\\Android\\The Book\\app\\src\\main\\res\\values-hdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "6,8,7,5,4",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "184,293,232,139,94",
+                        "endColumns": "46,59,59,43,43",
+                        "endOffsets": "226,348,287,178,133"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,102,162,222,266",
+                        "endColumns": "46,59,59,43,43",
+                        "endOffsets": "97,157,217,261,305"
+                    }
+                }
+            ]
+        }
+    ]
+}

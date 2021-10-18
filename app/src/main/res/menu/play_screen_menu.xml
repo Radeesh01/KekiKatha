@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        android:title="search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always"
+        >
+    </item>
+    <item
+        android:id="@+id/brightness"
+        android:icon="@drawable/ic_brightness"
+        android:title="@string/menu_britness"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/colorPick"
+        android:icon="@drawable/ic_color"
+        android:title="@string/menu_fontcolor"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/textSize"
+        android:icon="@drawable/ic_format_size"
+        android:title="Text Size"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_resetDefault"
+        android:icon="@drawable/ic_reset"
+        android:title="@string/menu_reset"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/indicator"
+        android:icon="@drawable/ic_unpin"
+        android:title="@string/menu_indicator"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bookmark"
+        android:icon="@drawable/ic_unbook"
+        android:title="@string/unbook"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/language_selection"
+        android:icon="@drawable/ic_language"
+        android:title="@string/menu_language"
+        app:showAsAction="always" />
+
+
+
+</menu>

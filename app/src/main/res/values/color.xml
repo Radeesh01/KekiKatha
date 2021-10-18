@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <!-- <color name="off_white">#fdd995</color>-->
+    <color name="colorPrimary">#AC0006</color>
+    <color name="colorPrimaryDark">#8D0003</color>
+    <color name="colorAccent">#8D0003</color>
+    <color name="white">#FFFFFF</color>
+    <color name="off_white">#FFFAF0</color>
+    <color name="grey_black">#151515</color>
+    <color name="gray">#808080</color>
+    <color name="black">#000000</color>
+    <color name="Khaki">#F0E68C</color>
+
+</resources>

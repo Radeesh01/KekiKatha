@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_language_selection"
+        android:checkable="true"
+        android:icon="@drawable/ic_language"
+        android:title="@string/menu_language"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/app_share"
+        android:checkable="true"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/menu_rateus"
+        android:icon="@drawable/ic_rate"
+        android:title="@string/rateus"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/bookmark_list"
+        android:icon="@drawable/ic_bookmark"
+        android:title="@string/bookmark_list"
+        app:showAsAction="ifRoom"/>
+</menu>

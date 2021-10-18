@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\Lalantha\\Android\\The Book\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xxhdpi-v4\\values-xxhdpi-v4.xml",
+            "map": [
+                {
+                    "source": "E:\\Lalantha\\Android\\The Book\\app\\src\\main\\res\\values-xxhdpi\\dimens.xml",
+                    "from": {
+                        "startLines": "5,8,7,6,4,3",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "182,352,291,230,137,92",
+                        "endColumns": "46,63,59,59,43,43",
+                        "endOffsets": "224,411,346,285,176,131"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,102,166,226,286,330",
+                        "endColumns": "46,63,59,59,43,43",
+                        "endOffsets": "97,161,221,281,325,369"
+                    }
+                }
+            ]
+        }
+    ]
+}

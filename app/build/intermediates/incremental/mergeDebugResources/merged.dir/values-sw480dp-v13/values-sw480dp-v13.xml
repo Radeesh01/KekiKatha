@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="listviewcontent">21sp</dimen>
+    <dimen name="speedControllToggleButton_height">40dp</dimen>
+    <dimen name="tv_index_eng">16dp</dimen>
+    <dimen name="tv_index_guj">24dp</dimen>
+</resources>

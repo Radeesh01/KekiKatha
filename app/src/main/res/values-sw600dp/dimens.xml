@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="tv_index_guj">37dp</dimen>
+    <dimen name="tv_index_eng">30dp</dimen>
+    <dimen name="listviewcontent">22sp</dimen>
+    <dimen name="speedControllToggleButton_height">48dp</dimen>
+
+
+</resources>
